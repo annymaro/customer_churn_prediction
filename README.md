@@ -61,3 +61,6 @@ This can help a business prioritize quality improvement, customer support, and s
 - Customer_Churn_Prediction.ipynb
 - customer_vendor_data.csv
 - README.md
+- ## Visualization
+![Feature Importance](feature_importance.png)
+
